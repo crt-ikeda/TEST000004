@@ -1,0 +1,7 @@
+{
+	"name": "python-test",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": { "VARIANT": "3.7" }
+	}
+}
